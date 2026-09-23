@@ -14,14 +14,11 @@
     "room4": "CL2",
     "lesson5": "Computer Science",
     "teacher5": "Mr Cutler",
-    "room5": "CO1",
+    "room5": "CO1"
     "lesson6": "German",
-    "teacher6": "Mr Study1",
-    "room6": "L9",
-    "lesson7": "German",
-    "teacher7": "Mr Soames",
-    "room7": "L8",
-    "lesson8": "Mathematics",
-    "teacher8": "Mr Barley",
-    "room8": "M3"
+    "teacher6": "Mr Soames",
+    "room6": "L8",
+    "lesson7": "Mathematics",
+    "teacher7": "Mr Barley",
+    "room7": "M3"
 }
