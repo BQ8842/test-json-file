@@ -1,31 +1,31 @@
 {
   "Chapter 9": [
-    {"difficulty": 2, "weakness": 0.3},
-    {"task": "Test on Chapter 9 vocab", "time": 5},
+    { "difficulty": 2, "weakness": 0.3 },
+    { "task": "Test on Chapter 9 vocab", "time": 5 }
   ],
   "Chapter 10": [
-    {"difficulty": 2, "weakness": 0.5},
-    {"task": "Test on Chapter 10 vocab", "time": 5},
+    { "difficulty": 2, "weakness": 0.5 },
+    { "task": "Test on Chapter 10 vocab", "time": 5 }
   ],
   "Tenses": [
-    {"difficulty": 5, "weakness": 0.7},
-    {"task": "Write out tense signifiers for all active tenses", "time": 5},
-    {"task": "Write out tense signifiers for all passive tenses", "time": 5},
-    {"task": "Practise 10 Qs on participles", "time": 10},
-    {"task": "Practice 15 Qs on mixed tenses", "time": 15},
-    {"task": "Practice 15 Qs on recognising tenses", "time": 10},
-    {"task": "Practice 10 Qs on English to Latin tenses", "time": 10},
+    { "difficulty": 5, "weakness": 0.7 },
+    { "task": "Write out tense signifiers for all active tenses", "time": 5 },
+    { "task": "Write out tense signifiers for all passive tenses", "time": 5 },
+    { "task": "Practise 10 Qs on participles", "time": 10 },
+    { "task": "Practice 15 Qs on mixed tenses", "time": 15 },
+    { "task": "Practice 15 Qs on recognising tenses", "time": 10 },
+    { "task": "Practice 10 Qs on English to Latin tenses", "time": 10 }
   ],
   "Nouns & Adjectives": [
-    {"difficulty": 4, "weakness": 0.8}
-    {"task": "Practice 1st declension noun endings", "time": 5},
-    {"task": "Practice 2nd declension noun endings", "time": 5},
-    {"task": "Practice 3rd declension noun endings", "time": 5},
-    {"task": "Practice mixed declension endings", "time": 5},
-    {"task": "Practice 10 2-1-2 adjective Qs", "time": 10},
-    {"task": "Practice 10 3rd declension adjectives Qs", "time": 10},
-    {"task": "Practice 10 Qs on comparative and superlative adjectives", "time": 15},
-    {"task": "Practice 15 adjective vs adverb Qs", "time": 15},
-    {"task": "Practice 10 adjective vs adverb with superlatives and comparatives Qs", "time": 15},
-  ],
+    { "difficulty": 4, "weakness": 0.8 },
+    { "task": "Practice 1st declension noun endings", "time": 5 },
+    { "task": "Practice 2nd declension noun endings", "time": 5 },
+    { "task": "Practice 3rd declension noun endings", "time": 5 },
+    { "task": "Practice mixed declension endings", "time": 5 },
+    { "task": "Practice 10 2-1-2 adjective Qs", "time": 10 },
+    { "task": "Practice 10 3rd declension adjectives Qs", "time": 10 },
+    { "task": "Practice 10 Qs on comparative and superlative adjectives", "time": 15 },
+    { "task": "Practice 15 adjective vs adverb Qs", "time": 15 },
+    { "task": "Practice 10 adjective vs adverb with superlatives and comparatives Qs", "time": 15 }
+  ]
 }
