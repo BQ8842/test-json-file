@@ -9,7 +9,7 @@
   "Density & Pressure": [
     {"difficulty": 2, "weakness": 0.2},
     {"task": "Recite the density and pressure equations", "time": 2},
-    {"task": "Do 10 density Qs, "time": 10},
+    {"task": "Do 10 density Qs", "time": 10},
     {"task": "Do 10 solid pressure Qs", "time": 10},
     {"task": "Do 10 depth pressure Qs", "time": 10},
     {"task": "Write the method & equipment for the measuring density of regular solids experiment", "time": 15},
