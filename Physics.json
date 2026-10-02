@@ -1,0 +1,8 @@
+{
+  "Motion": [
+    {"difficulty": 2, "weakness": 0.2},
+    {"task": "Recite the speed and 2 acceleration formulae", "time": 2},
+    {"task": "Do 10 Qs on acceleration", "time": 15},
+    {"task": "Practise 15 Cognito Qs on motion graphs", "time": 15},
+    {"task": "Name 5 scalar and 5 vector quantities", "time": 2},
+  ],
