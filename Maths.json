@@ -1,7 +1,37 @@
 {
   "Percentages": [
-    {"difficulty": 3}
-    {"Practice 5 x% qs", "time": 10}
-    {"Practice 10 x original value qs", "time": 10}
-    {"Practice 10 reverse percentage qs", "time": 10}
+    {"difficulty": 3, "weakness": 0.3},
+    {"task": "Practise 5 x% qs", "time": 10},
+    {"task": "Practise 10 standard percentage Qs", "time": 10},
+    {"task": "Practise 10 reverse percentage Qs", "time": 10},
+    {"task": "Practise 10 compound percentage Qs", "time": 10},
+    {"task": "Practise 15 mixed percentage Qs", "time": 15},
+  ],
+  "Bounds": [
+    {"difficulty": 2, "weakness": 0.3},
+    {"task": "Practise 10 standard bounds Qs", "time": 2},
+    {"task": "Practise 10 bounds Qs with addition & multiplication", "time": 5},
+    {"task": "Practise 10 bounds Qs with subtraction & division", "time": 5},
+    {"task": "Practise 10 mixed bounds Qs", "time": 10}
+  ],
+  "Rearranging Formulae": [
+    {"difficulty": 4, "weakness": 0.5},
+    {"task": "Practise 10 standard rearraning formulae Qs", "time": 10},
+    {"task": "Practise 10 rearranging formulae Qs with factorising", "time": 15},
+  ],
+  "Co-ordinate Geometry": [
+    {"difficulty": 3, "weakness": 0.7},
+    {"task": "Convert y=12x+4/3 into ax+by=c", "time": 2},
+    {"task": "Practise 10 y=mx+c to ax+by=c conversion Qs", "time": 15},
+    {"task": "Practise 10 ax+by=c to y=mx+c conversion Qs", "time": 15},
+    {"task": "Practise 15 parallel line Qs", "time": 5},
+    {"task": "Do 10 negative reciprocal Qs", "time": 5},
+    {"task": "Practise 10 parallel lines Qs", "time": 10},
+    {"task": "Practise 10 distance between 2 points Qs", "time": 10},
+    {"task": "Do 10 midpoint Qs", "time": 5}
+  ],
+  "Pythagoras": [
+    {"difficulty": 4, "weakness": 0.4},
+    {"task": "Name 5 Pythagorean triples", "time": 2},
+    {"task": "Do 10 Pythagoras Qs", "time": 10}
   ]
