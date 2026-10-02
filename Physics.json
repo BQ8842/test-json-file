@@ -4,6 +4,31 @@
     { "task": "Recite the speed and 2 acceleration formulae", "time": 2 },
     { "task": "Do 10 Qs on acceleration", "time": 15 },
     { "task": "Practise 15 Cognito Qs on motion graphs", "time": 15 },
-    { "task": "Name 5 scalar and 5 vector quantities", "time": 2 }
+    { "task": "Name 5 scalar and 5 vector quantities", "time": 2 },
+  ],
+  "Density & Pressure": [
+    {"difficulty": 2, "weakness": 0.2},
+    {"task": "Recite the density and pressure equations", "time": 2},
+    {"task": "Do 10 density Qs, "time": 10},
+    {"task": "Do 10 solid pressure Qs", "time": 10},
+    {"task": "Do 10 depth pressure Qs", "time": 10},
+    {"task": "Write the method & equipment for the measuring density of regular solids experiment", "time": 15},
+    {"task": "Write the method & equipment for the measuring density of irregular solids experiment", "time": 15},
+    {"task": "Write the method & equipment for the measuring density of liquids experiment", "time": 15},
+    {"task": "Describe the kinetic theory", "time": 5},
+  ],
+  "Electromagnetic Spectrum": [
+    {"difficulty": 2, "weakness": 0.3},
+    {"task": "Name the 7 types of EM radiation and their uses", "time": 5},
+  ],
+  "Energy Stores & Transfers": [
+    {"difficulty": 4, "weakness": 0.5},
+    {"task": "Name the 8 energy stores", "time": 2},
+    {"task": "Name the 4 energy transfers", "time": 2},
+    {"task": "Describe the law of the conservation of energy", "time": 2},
+    {"task": "Practise 10 conservation of energy Qs", "time": 5},
+    {"task": "Give the formula for energy efficiency": "time": 2},
+    {"task": "Practise 10 efficiency Qs": "time": 5},
+    {"task": "Do 10 Sankey Diagram Qs": "time": 15}
   ]
 }
