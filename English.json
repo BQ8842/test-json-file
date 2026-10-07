@@ -1,0 +1,12 @@
+{
+  "Transactional Writing": [
+    {"difficulty": 3, "weakness": 0.8},
+    {"task": "Write a practice speech", "time": 30},
+    {"task": "Write a practice newspaper article", "time": 30},
+    {"task": "Write a practice magazine article", "time": 20},
+    {"task": "Write a practice formal letter", "time": 20},
+    {"task": "Write a practice informal letter", "time": 20},
+    {"task": "Write a practice leaflet", "time": 20},
+    {"task": "Write a practice report", "time": 30}
+  ]
+}
