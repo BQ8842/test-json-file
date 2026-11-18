@@ -34,5 +34,26 @@
     {"difficulty": 4, "weakness": 0.4},
     {"task": "Name 5 Pythagorean triples", "time": 2},
     {"task": "Do 10 Pythagoras Qs", "time": 10}
+  ],
+  "Circle Theorems": [
+    {"difficulty": 4, "weakness": 0.6},
+    {"task": "Explain the Angle at the Centre theorem", "time": 2},
+    {"task": "Explain the Angle in a semi-circle theorem", "time": 2},
+    {"task": "Explain the Angle between the tangent and the radius theorem", "time": 2},
+    {"task": "Explain the Opposite Angles in a Cyclic quadrilateral theorem", "time": 2},
+    {"task": "Explain the Angles in the same segment theorem", "time": 2},
+    {"task": "Explain the Angles in opposite segments theorem", "time": 2},
+    {"task": "Practise 10 mixed circle theorem Qs", "time": 15},
+    {"task": "Practise 10 combined circle theorem Qs", "time": 15}
+  ],
+  "Quadratics": [
+    {"difficulty": 5, "weakness": 0.4},
+    {"task": "Practise 10 multiplying 2 brackets Qs", "time": 10},
+    {"task": "Practise 10 multiplying 3 brackets Qs", "time": 15},
+    {"task": "Practise 10 factorising single bracket Qs", "time": 5},
+    {"task": "Practise 10 factorising quadratics (a=1) Qs", "time": 10},
+    {"task": "Practise 10 factorising quadratics (a>1) Qs", "time": 20},
+    {"task": "Practise 15 mixed factorising Qs", "time": 25},
+    {"task": "Practise 10 solving by factorising Qs", "time": 15}
   ]
 }
