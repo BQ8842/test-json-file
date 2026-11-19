@@ -85,12 +85,15 @@
     { "task": "Practise 10 Doppler effect Qs", "time": 10 }
   ],
   "Static Electricity": [
-    { "difficulty": 43, "weakness": 0.7},
+    { "difficulty": 4, "weakness": 0.7},
     {"task": "Define an Insulator", "time": 2},
     {"task": "Define a Conductor", "time": 2},
     {"task": "Name 2 Conductors and 2 Insulators", "time": 4},
     {"task": "Name 2 dangers of electrostatics", "time": 5},
     {"task": "Name 2 uses of electrostatics", "time": 5},
     {"task": "Explain 2 ways how machines negate the risks of electrostatics", "time": 7}
-  ]
+  ],
+  "Current Electricity": [
+    {"difficulty": 3, "weakness": 0.7},
+    {"task": "Draw the following circuit components: Lamp, Cell, Resistor", "time": 2},
 }
